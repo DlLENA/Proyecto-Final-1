@@ -19,7 +19,7 @@ namespace Proyecto_Final_1
     public partial class Form1 : Form 
     {
 
-        string apiKey = "AIzaSyBfLn9NzCjXzkzlAPa_qoIdN45O5f9FypE  ";
+        string apiKey = "Clave de apikey";
 
 
         //campos 
